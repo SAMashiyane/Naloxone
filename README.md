@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"><strong>🛣Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1>
+<h1 align="center"><strong>🛣  Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1>
 
   
  ![Python - Version](https://img.shields.io/badge/PYTHON-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
