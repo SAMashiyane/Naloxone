@@ -11,7 +11,7 @@
 ----
 
 ## 📚 Table of Contents
-- [Abstract]!(#Abstract)
+- [Abstract](#Abstract)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
