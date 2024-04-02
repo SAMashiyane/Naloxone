@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center"><strong>🛣  Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1>
-
- ![scikit_learn - Version](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ 
  ![Python - Version]( https://img.shields.io/badge/Python-3.9+-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
  ![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg?style=for-the-badge)
  ![GitHub Issues](https://img.shields.io/github/issues/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.svg?style=for-the-badge)
  ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=for-the-badge)
