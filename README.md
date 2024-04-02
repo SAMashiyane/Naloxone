@@ -39,17 +39,56 @@ The duration of administration was divided into two categories: A (which include
 
 ### ✅ Prerequisites <a name="prerequisites"></a>
 
-- <b> prerequisite for training</b>:
+- <b> dependencies:</b>:
+- 
 The Anaconda Distribution, commonly known as Anaconda, is one of the most renowned Python distribution platforms.
 It is a popular tool for data science and machine learning developers. This is because it offers a collection of over 800 packages installed and curated to work correctly out of the box.The Anaconda distribution is also free and very user-friendly. It comes with a command-line interface for terminal nerds and the Anaconda navigator, allowing you to manage environments and packages with a GUI interface.
-While installing packages in requirements.txt using Conda through the following command:
+While installing packages in requirements.txt using Conda through the following command:Install the dependencies:
 ```shell
  conda install --yes --file requirements.txt
 ```
 
 ### 💻 Setup <a name="setup"></a>
 
+1. Clone the repository:
+ ```shell
+ git clone https://https://github.com/SAMashiyane/Naloxone.git
+ ```
+ 2. Change to the project directory:
+ ```shell
+ cd naloxlib
+ ```
+ 3. Setting up programming environment to run the project:
+ 
+ - If using an installed <a hre="https://docs.conda.io/en/latest/">conda</a> package manager, i.e. either Anaconda or Miniconda, create the conda environment following the steps mentioned below:
+ ```shell
+ conda create --name <environment-name> python=3.9.x
+ conda activate <environment-name>
+ ```
 
+### 🤖 Running the project <a name="running-the-project"></a>
+```
+
+```
+
+----
+## 📝 Citing <a name="citing"></a>
+```
+
+```
+----
+
+## 🛡️ License <a name="license"></a>
+Project is distributed under [MIT License]()
+
+---
+## 👏 Acknowledgements <a name="acknowledgements"></a>
+
+
+<p align="right">
+ <a href="#top"><b>🔝 Return </b></a>
+</p>
+------
 
 
 
