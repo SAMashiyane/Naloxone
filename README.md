@@ -79,7 +79,7 @@ While installing packages in requirements.txt using Conda through the following 
 ----
 
 ## 🛡️ License <a name="license"></a>
-Project is distributed under [MIT License]()
+Project is distributed under [MIT License](https://github.com/SAMashiyane/Naloxone/blob/main/LICENSE)
 
 ---
 ## 👏 Acknowledgements <a name="acknowledgements"></a>
