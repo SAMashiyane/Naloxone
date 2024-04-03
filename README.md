@@ -1,13 +1,11 @@
 <div align="center">
-<h1 align="center"><strong>🛣  Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1> <img alt="Markdown" src="https://img.shields.io/badge/Machine learning-000?logo=Machine learning&logoColor=white">
- 
+<h1 align="center"><strong>🛣  Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1> 
  ![Python - Version]( https://img.shields.io/badge/Python-3.9+-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  ![scikit_learn - Version](https://img.shields.io/badge/scikit_learn-1.4+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
  ![anaconda -version](https://img.shields.io/badge/conda-4.x-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
  ![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg?style=for-the-badge)
- ![GitHub Issues](https://img.shields.io/github/issues/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.svg?style=for-the-badge)
- ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=for-the-badge)
+ 
  
 </div>
 
