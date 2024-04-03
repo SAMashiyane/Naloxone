@@ -83,7 +83,8 @@ Classifier_comparison_naloxone()
 ```
 4. Make Models
 ```shell
-MchineLearningName = make_machine_learning_model('id for machine learning(ML) name') # you can see this Id machine learning  in the  id.text
+# you can see this Id machine learning  in the  id.text
+NameML = make_machine_learning_model('id for machine learning(ML) name') 
 ```
 5. Prediction on Test Sample(test_dataset) 
 ```shell
@@ -91,7 +92,8 @@ predict_model(id_ML);
 ```
 6. Machine learning plot
 ```shell
-plot_machine(id_ML, plot = 'Type of shape') # example: 'feature' or 'confusion_matrix' or 'class_report' and ...this function power from Yellowbrick
+# example: 'feature' or 'confusion_matrix' or 'class_report' and ...this function power from Yellowbrick
+plot_machine(id_ML, plot = 'Type of shape') 
 ```
 
 ----
