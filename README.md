@@ -68,14 +68,36 @@ While installing packages in requirements.txt using Conda through the following 
  ```
 
 ### 🤖 Running the project <a name="running-the-project"></a>
+1. naloxlib libraries was created specifically for this project. importing naloxalib .
+```shell
+import naloxlib
+from naloxlib.classifier import * #  ---> for use classification stage 
 ```
-
+2. build_naloxone_model for classification
+```shell
+build_naloxone_model(data=data_selection,session_id=123,train_size = 0.7)
+```
+3.Comparing All Models
+```shell
+Classifier_comparison_naloxone()
+```
+4.Make Models
+```shell
+lightgbm = make_machine_learning_model('id for machine learning(ML) name') # you can see this Id machine learning  in the  id.text
+```
+5.Prediction on Test Sample(test_dataset) 
+```shell
+predict_model(id_ML);
+```
+6.Machine learning plot
+```shell
+plot_machine(id_ML, plot = 'Type of shape') # example: 'feature' or 'confusion_matrix' or 'class_report' and ...this function power from Yellowbrick
 ```
 
 ----
 ## 📝 Citing <a name="citing"></a>
 ```
-
+This section will be dedicated to article citation in the future
 ```
 ----
 
