@@ -21,7 +21,6 @@
   - [Running the project ](#running-the-project)
 - [Citing](#citing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ---- 
 ## 📌 Abstract <a name="Abstract"></a>
