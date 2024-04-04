@@ -85,44 +85,31 @@ Classifier_comparison_naloxone()
 ```shell
 help(Id_index)
 ```
+
+ |------------------------------|-----------------------------|
+ |    Name_Model                |          Id_Model           |
+ |------------------------------|-----------------------------|
+ |                                                            |
+ | LogisticRegressionClassifier            LogReg             |
+ | KNeighborsClassifie                     KNN                |
+ |  GaussianNBClassifie                    GNB                |
+ | DecisionTreeClassifier                  DT                 |
+ | SVM - Linear Kernel                     SVM                |
+ | Gaussian Process Classifier             GauProC            |
+ | MLP Classifier                          MLP                |
+ | Ridge Classifier                        RIG                |
+ | Random Forest Classifier                RanForest          |
+ | Ada Boost Classifier                    AdaBo              |
+ | Gradient Boosting Classifier            GraBoC             |
+ | Linear Discriminant Analysis            LDisAn             |
+ | Extra Trees Classifier                  EXTre              |
+ | Extreme Gradient Boosting               xgboost            |
+ | Light Gradient Boosting Machine         lightgbm           |
+ | CatBoost Classifier                     catboost           |
+ | Dummy Classifier                        Dummy              |
+ | Calibrated Classifier CV                CalibratedCV       |
+ ------------------------------------------------------------ |
  
-
-
- | -----------------------------------------------------------|  
- | Coded:Mohtarami-->!https://github.com/SAMashiyane/Naloxone |
- | ==============---------------------------------------------|
-              |
-               |
-                 ^__^
-                 (oo)\_______
-                 (__)\       )\/
-                     ||----w |
-                     ||     ||
-
- |-------------------|-----------------------------|
- |   Name_Model      |      Id_Model.              |
- |-------------------|-----------------------------|
- |                                                |
- |      LogisticRegressionClassifier == LogReg    |
- |     KNeighborsClassifie == KNN                 |
- |       GaussianNBClassifie == GNB               |
- |       DecisionTreeClassifier == DT             |
- |       SVM - Linear Kernel == SVM               |
- |       Gaussian Process Classifier == GauProC   |
- |       MLP Classifier == MLP                    |
- |       Ridge Classifier == RIG                  |
- |       Random Forest Classifier == RanForest    |
- |       Ada Boost Classifier == AdaBo            |
- |       Gradient Boosting Classifier == GraBoC   |
- |       Linear Discriminant Analysis == LDisAn   |
- |       Extra Trees Classifier == EXTre          |
- |       Extreme Gradient Boosting == xgboost     |
- |  Light Gradient Boosting Machine == lightgbm   |
- |       CatBoost Classifier == catboost          |
- |       Dummy Classifier == Dummy                |
- |     Calibrated Classifier CV == CalibratedCV   |
- ------------------------------------------------ |
- ------------------------------------------------ |
   
    Plot_machine "Id_plot":--->"Name Plot" 
         "auc":---> "AUC"
