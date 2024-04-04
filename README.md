@@ -81,19 +81,77 @@ build_naloxone_model(data=data_selection,session_id=123,train_size = 0.7)
 ```shell
 Classifier_comparison_naloxone()
 ```
+4. for use Id_Model or Id_plot :
+```shell
+help(Id_index)
+```
+   """
+
+
+ | -----------------------------------------------------------|  
+ | Coded:Mohtarami-->!https://github.com/SAMashiyane/Naloxone |
+ | ==============---------------------------------------------|
+              |
+               |
+                 ^__^
+                 (oo)\_______
+                 (__)\       )\/
+                     ||----w |
+                     ||     ||
+
+ |-------------------|-----------------------------|
+ |   Name_Model      |      Id_Model.              |
+ |-------------------|-----------------------------|
+ |                                                |
+ |      LogisticRegressionClassifier == LogReg    |
+ |     KNeighborsClassifie == KNN                 |
+ |       GaussianNBClassifie == GNB               |
+ |       DecisionTreeClassifier == DT             |
+ |       SVM - Linear Kernel == SVM               |
+ |       Gaussian Process Classifier == GauProC   |
+ |       MLP Classifier == MLP                    |
+ |       Ridge Classifier == RIG                  |
+ |       Random Forest Classifier == RanForest    |
+ |       Ada Boost Classifier == AdaBo            |
+ |       Gradient Boosting Classifier == GraBoC   |
+ |       Linear Discriminant Analysis == LDisAn   |
+ |       Extra Trees Classifier == EXTre          |
+ |       Extreme Gradient Boosting == xgboost     |
+ |  Light Gradient Boosting Machine == lightgbm   |
+ |       CatBoost Classifier == catboost          |
+ |       Dummy Classifier == Dummy                |
+ |     Calibrated Classifier CV == CalibratedCV   |
+ ------------------------------------------------ |
+ ------------------------------------------------ |
+   Plot_machine "Id_plot":--->"Name Plot" 
+
+        "auc":---> "AUC"
+        "confusion_matrix":---> "Confusion Matrix"
+        "pr":---> "Precision Recall"
+        "error":---> "Prediction Error"
+        "class_report":---> "Class Report"
+        "learning":---> "Learning Curve"
+        "feature":---> "Feature Importance"
+        "feature_all":---> "Feature Importance (All)"
+
+        "rfe":---> "Feature Selection"
+                    
+ ----------------------------------------------------
+ ----------------------------------------------------
+       """
+
 4. Make Models
 ```shell
-# you can see this Id machine learning  in the  id.text
-NameML = make_machine_learning_model('id for machine learning(ML) name') 
+NameML = make_machine_learning_model('Id_Model') 
 ```
 5. Prediction on Test Sample(test_dataset) 
 ```shell
-predict_model(id_ML);
+predict_model(Id_Model);
 ```
 6. Machine learning plot
 ```shell
 # example: 'feature' or 'confusion_matrix' or 'class_report' and ...this function power from Yellowbrick
-plot_machine(id_ML, plot = 'Type of shape') 
+plot_machine(Id_Model, plot = 'Id_plot') 
 ```
 
 ----
