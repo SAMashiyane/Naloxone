@@ -85,7 +85,7 @@ Classifier_comparison_naloxone()
 ```shell
 help(Id_index)
 ```
-output: 
+output: Model name:
  
  |    Name_Model                   |          Id_Model           |
  |---------------------------------|-----------------------------|
@@ -109,7 +109,7 @@ output:
  | Dummy Classifier                |        Dummy                |
  | Calibrated Classifier CV        |        CalibratedCV         |
   
-  # Plot_machine 
+  Plot_machine : this function power from Yellowbrick
   
  |    Id_plot               |          Name Plot               |
  |--------------------------|----------------------------------|
@@ -137,7 +137,6 @@ predict_model(Id_Model);
 ```
 7. Machine learning plot
 ```shell
-# example: 'feature' or 'confusion_matrix' or 'class_report' and ...this function power from Yellowbrick
 plot_machine(Id_Model, plot = 'Id_plot') 
 ```
 
