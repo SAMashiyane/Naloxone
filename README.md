@@ -85,8 +85,8 @@ Classifier_comparison_naloxone()
 ```shell
 help(Id_index)
 ```
-
- |------------------------------|-----------------------------|
+output: 
+ 
  |    Name_Model                |          Id_Model           |
  |------------------------------|-----------------------------|
  |                                                            |
@@ -108,34 +108,34 @@ help(Id_index)
  | CatBoost Classifier                     catboost           |
  | Dummy Classifier                        Dummy              |
  | Calibrated Classifier CV                CalibratedCV       |
- ------------------------------------------------------------ |
- 
   
-   Plot_machine "Id_plot":--->"Name Plot" 
-        "auc":---> "AUC"
-        "confusion_matrix":---> "Confusion Matrix"
-        "pr":---> "Precision Recall"
-        "error":---> "Prediction Error"
-        "class_report":---> "Class Report"
-        "learning":---> "Learning Curve"
-        "feature":---> "Feature Importance"
-        "feature_all":---> "Feature Importance (All)"
+  # Plot_machine 
+  
+ |    Id_plot                   |          Name Plot          |
+ |------------------------------|-----------------------------|
+ |                                                            |
+ |    "auc"                               "AUC"               |
+ |    "confusion_matrix"        "Confusion Matrix"            |
+ |    "pr"                         "Precision Recall"         |
+ |    "error"                    "Prediction Error"           |
+ |    "class_report"             "Class Report"               |
+ |    "learning"                   "Learning Curve"           |
+ |    "feature"             "Feature Importance"              |
+ | "feature_all"             "Feature Importance (All)"       |
+ |  "rfe"                    "Feature Selection"              |
+ ------------------------------------------------------------ |
+ ------------------------------------------------------------                
 
-        "rfe":---> "Feature Selection"
-                    
- ----------------------------------------------------
 
-       
-
-4. Make Models
+5. Make Models
 ```shell
 NameML = make_machine_learning_model('Id_Model') 
 ```
-5. Prediction on Test Sample(test_dataset) 
+6. Prediction on Test Sample(test_dataset) 
 ```shell
 predict_model(Id_Model);
 ```
-6. Machine learning plot
+7. Machine learning plot
 ```shell
 # example: 'feature' or 'confusion_matrix' or 'class_report' and ...this function power from Yellowbrick
 plot_machine(Id_Model, plot = 'Id_plot') 
