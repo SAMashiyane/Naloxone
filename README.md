@@ -85,7 +85,7 @@ Classifier_comparison_naloxone()
 ```shell
 help(Id_index)
 ```
-   """
+ 
 
 
  | -----------------------------------------------------------|  
@@ -123,8 +123,8 @@ help(Id_index)
  |     Calibrated Classifier CV == CalibratedCV   |
  ------------------------------------------------ |
  ------------------------------------------------ |
+  
    Plot_machine "Id_plot":--->"Name Plot" 
-
         "auc":---> "AUC"
         "confusion_matrix":---> "Confusion Matrix"
         "pr":---> "Precision Recall"
@@ -137,8 +137,8 @@ help(Id_index)
         "rfe":---> "Feature Selection"
                     
  ----------------------------------------------------
- ----------------------------------------------------
-       """
+
+       
 
 4. Make Models
 ```shell
