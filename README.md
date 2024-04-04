@@ -87,44 +87,44 @@ help(Id_index)
 ```
 output: 
  
- |    Name_Model                |          Id_Model           |
- |------------------------------|-----------------------------|
- |                                                            |
- | LogisticRegressionClassifier            LogReg             |
- | KNeighborsClassifie                     KNN                |
- |  GaussianNBClassifie                    GNB                |
- | DecisionTreeClassifier                  DT                 |
- | SVM - Linear Kernel                     SVM                |
- | Gaussian Process Classifier             GauProC            |
- | MLP Classifier                          MLP                |
- | Ridge Classifier                        RIG                |
- | Random Forest Classifier                RanForest          |
- | Ada Boost Classifier                    AdaBo              |
- | Gradient Boosting Classifier            GraBoC             |
- | Linear Discriminant Analysis            LDisAn             |
- | Extra Trees Classifier                  EXTre              |
- | Extreme Gradient Boosting               xgboost            |
- | Light Gradient Boosting Machine         lightgbm           |
- | CatBoost Classifier                     catboost           |
- | Dummy Classifier                        Dummy              |
- | Calibrated Classifier CV                CalibratedCV       |
+ |    Name_Model                   |          Id_Model           |
+ |---------------------------------|-----------------------------|
+ |                                 |                             |
+ | LogisticRegressionClassifier    |          LogReg             |
+ | KNeighborsClassifie             |          KNN                |
+ |  GaussianNBClassifie            |          GNB                |
+ | DecisionTreeClassifier          |         DT                  |
+ | SVM - Linear Kernel             |         SVM                 |
+ | Gaussian Process Classifier     |          GauProC            |
+ | MLP Classifier                  |           MLP               |
+ | Ridge Classifier                |           RIG               |
+ | Random Forest Classifier        |           RanForest         |
+ | Ada Boost Classifier            |           AdaBo             |
+ | Gradient Boosting Classifier    |           GraBoC            |
+ | Linear Discriminant Analysis    |           LDisAn            |
+ | Extra Trees Classifier          |           EXTre             |
+ | Extreme Gradient Boosting       |           xgboost           |
+ | Light Gradient Boosting Machine |        lightgbm             |
+ | CatBoost Classifier             |        catboost             |
+ | Dummy Classifier                |        Dummy                |
+ | Calibrated Classifier CV        |        CalibratedCV         |
   
   # Plot_machine 
   
- |    Id_plot                   |          Name Plot          |
- |------------------------------|-----------------------------|
- |                                                            |
- |    "auc"                               "AUC"               |
- |    "confusion_matrix"        "Confusion Matrix"            |
- |    "pr"                         "Precision Recall"         |
- |    "error"                    "Prediction Error"           |
- |    "class_report"             "Class Report"               |
- |    "learning"                   "Learning Curve"           |
- |    "feature"             "Feature Importance"              |
- | "feature_all"             "Feature Importance (All)"       |
- |  "rfe"                    "Feature Selection"              |
- ------------------------------------------------------------ |
- ------------------------------------------------------------                
+ |    Id_plot               |          Name Plot               |
+ |--------------------------|----------------------------------|
+ |                          |                                  |
+ |    "auc"                 |              "AUC"               |
+ |    "confusion_matrix"    |    "Confusion Matrix"            |
+ |    "pr"                  |       "Precision Recall"         |
+ |    "error"               |      "Prediction Error"          |
+ |    "class_report"        |      "Class Report"              |
+ |    "learning"            |       "Learning Curve"           |
+ |    "feature"             | "Feature Importance"             |
+ | "feature_all"            |  "Feature Importance (All)"      |
+ |  "rfe"                   | "Feature Selection"              |
+ ------------------------------------------------------------- |
+               
 
 
 5. Make Models
