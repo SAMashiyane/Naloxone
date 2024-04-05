@@ -20,13 +20,13 @@ nbformat>=4.2.0
 cloudpickle
 deprecation>=2.1.0
 xxhash
-wurlitzer; platform_system != 'Windows'
+wurlitzer
 atplotlib<3.8.0 
 scikit-plot>=0.3.7
 yellowbrick>=1.4
 plotly>=5.14.0
 kaleido>=0.2.1
-schemdraw==0.15  # 0.16 only supports Python >3.8
+schemdraw==0.15  
 plotly-resampler>=0.8.3.1
 prophet>=1.0.1
 xgboost>=1.1.0
