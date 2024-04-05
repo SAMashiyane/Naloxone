@@ -56,7 +56,7 @@ While installing packages in requirements.txt using Conda through the following 
  ```
  2. Change to the project directory:
  ```shell
- cd naloxlib
+ cd src
  ```
  3. Setting up programming environment to run the project:
  
