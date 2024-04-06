@@ -132,11 +132,11 @@ NameML = make_machine_learning_model('Id_Model')
 ```
 6. Prediction on Test Sample(test_dataset) 
 ```shell
-predict_model(Id_Model);
+predict_model(NameML);
 ```
 7. Machine learning plot
 ```shell
-plot_machine(Id_Model, plot = 'Id_plot') 
+plot_machine(NameML, plot = 'Id_plot') 
 ```
 
 ----
