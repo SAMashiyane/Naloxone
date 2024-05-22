@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"><strong>[Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)](https://links.springernature.com/f/a/kXmgdDPymU8MCBpxEuGnvA~~/AABE5gA~/RgRoL0p5P0SlaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDA3L3M0MDE5OS0wMjQtMDA1MTgteD91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5vbm9hXzIwMjQwNTIxJnV0bV9jb250ZW50PTEwLjEwMDcvczQwMTk5LTAyNC0wMDUxOC14VwNzcGNCCmZEecVMZuFKTDNSEm1zdHpibWRAc2JtdS5hYy5pclgEAAAHLQ~~)</strong></h1> 
+<h1 align="center"><strong>Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1> 
 
 
  
