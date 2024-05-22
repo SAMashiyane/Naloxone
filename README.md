@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center"><strong>  Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1> 
-![Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)](https://link.springer.com/article/10.1007/s40199-024-00518-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240521&utm_content=10.1007%2Fs40199-024-00518-x)
+<h1 align="center"><strong>[Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)](https://links.springernature.com/f/a/kXmgdDPymU8MCBpxEuGnvA~~/AABE5gA~/RgRoL0p5P0SlaHR0cHM6Ly9saW5rLnNwcmluZ2VyLmNvbS8xMC4xMDA3L3M0MDE5OS0wMjQtMDA1MTgteD91dG1fc291cmNlPXJjdF9jb25ncmF0ZW1haWx0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5vbm9hXzIwMjQwNTIxJnV0bV9jb250ZW50PTEwLjEwMDcvczQwMTk5LTAyNC0wMDUxOC14VwNzcGNCCmZEecVMZuFKTDNSEm1zdHpibWRAc2JtdS5hYy5pclgEAAAHLQ~~)</strong></h1> 
+
 
  
  ![Python - Version]( https://img.shields.io/badge/Python-3.9+-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
