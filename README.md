@@ -1,5 +1,7 @@
 <div align="center">
 <h1 align="center"><strong>  Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)</strong></h1> 
+![Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence)](https://link.springer.com/article/10.1007/s40199-024-00518-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240521&utm_content=10.1007%2Fs40199-024-00518-x)
+
  
  ![Python - Version]( https://img.shields.io/badge/Python-3.9+-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  ![scikit_learn - Version](https://img.shields.io/badge/scikit_learn-1.4+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -142,7 +144,8 @@ plot_machine(NameML, plot = 'Id_plot')
 ----
 ## 📝 Citing <a name="citing"></a>
 ```
-This section will be dedicated to article citation in the future
+Cite this article
+Mohtarami, S.A., Mostafazadeh, B., Shadnia, S. et al. Prediction of naloxone dose in opioids toxicity based on machine learning techniques (artificial intelligence). DARU J Pharm Sci (2024). https://doi.org/10.1007/s40199-024-00518-x
 ```
 ----
 
